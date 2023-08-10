@@ -20,7 +20,7 @@ You can install them using the following command:
 
 ```
 pip install numpy matplotlib pyvista
-
+```
 ## Usage
 
 1. Clone this repository:
@@ -28,11 +28,13 @@ pip install numpy matplotlib pyvista
 ```
 git clone https://github.com/arachih/SPH_Fluid_Simulation.git
 cd SPH_Fluid_Simulation/code
+```
 
 2. Run the simulation by executing the Python script:
 
 ```
 python sph.py
+```
 
 ## Other Python Files
 
